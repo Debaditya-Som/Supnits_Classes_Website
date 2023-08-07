@@ -60,11 +60,5 @@ Once the website is set up, you can start using it as a learner or an instructor
 
 - **Instructor:** Create and manage courses, upload course materials, interact with students through discussions, and track the performance of your courses.
 
-## Contributing
 
-We welcome contributions from the community to enhance the Supnits Classes Website. If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-
----
-
-Thank you for choosing Supnits Classes Website for your educational needs. We hope you have a productive and enriching learning experience! If you have any questions or need assistance, please contact our support team at support@supnitsclasses.com.
+Thank you for choosing Supnits Classes Website for your educational needs. We hope you have a productive and enriching learning experience! 
