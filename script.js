@@ -1,0 +1,1 @@
+/* Add a JavaScript file to make the website more interactive */
